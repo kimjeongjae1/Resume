@@ -49,4 +49,4 @@
 
 ## 🙏나의 최종적인 꿈
 
-<img src=Loa.png height=900 widht=1100>
+<img src=Loa.png height=484 widht=860>
