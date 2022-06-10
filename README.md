@@ -10,7 +10,8 @@
 :two: 저는 한림대학교에서 미래융합스쿨에 속해있으며 의약신소재를 전공하고 있습니다!          
 :three: 지금의 전공과는 맞지 않는다고 생각해서 소융대 컨텐츠it전공으로 전과를 준비중입니다!          
 :four: 부족한 부분이 많고 늦게 시작한 만큼 열심히 노력하겠습니다!              
-:five: 제 Github 링크는 [@kimjeongjae1](https://github.com/kimjeongjae1 "Overview" ) 입니다!           
+:five: 제 Github 링크는 [@kimjeongjae1](https://github.com/kimjeongjae1 "Overview" ) 입니다!       
+:six: 저의 일상이 궁금하다면? [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/99091o/)](https://www.instagram.com/99091o/)          
 
 ---
 
