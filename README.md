@@ -49,9 +49,9 @@
 
 ## 🙏나의 최종적인 꿈
 
-<img src=Loa.png height=484 widht=860>      
-[LostArk](https://lostark.game.onstove.com/Main)            
-
+<img src=Loa.png height=484 widht=860>        
+          
+  
 게임개발자에 대한 막연한 꿈만 가지고 있었지, 제가 진짜로 목표 하는 기업 혹은 게임이 뚜렷하게 있진 않았습니다.  <br>
 전역한 이후 약 6개월동안 좋아하는 게임을 맘껏 즐기면서 생각한 것은 과연 내가 어떤 장르를 좋아하고 어떤 엔진을 좋아할까? 였습니다. <br>
 그러던 와중에 친구의 권유로 시작한 것이 바로 '로스트아크' 입니다.  <br>
