@@ -45,7 +45,8 @@
 2. html
 3. C#
 4. Unity
-5. Jira (기초 연습중!)  
+5. Unreal(기초)
+6. Jira (기초 연습중!)  
 
 ---   
 
