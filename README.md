@@ -46,7 +46,7 @@
 3. C#
 4. Unity
 5. Unreal(기초)
-6. Jira (기초 연습중!)  
+6. Jira (기초 연습중!)  https://kimjeongjae.atlassian.net/jira/software/projects/SCRUM/boards/1
 
 ---   
 
